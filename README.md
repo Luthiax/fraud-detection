@@ -1,4 +1,4 @@
-# Detecting Fraudulent Card Transactions (0.17% Positive Rate) — Dollar Cost Optimization
+# Detecting Fraudulent Card Transactions (0.17% Positive Rate) - Dollar Cost Optimization
 
 > **Can we flag fraudulent card transactions in real time — and what's the dollar cost of each false positive vs each missed fraud?**
 
