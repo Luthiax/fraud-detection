@@ -1,0 +1,3 @@
+model,validation_pr_auc,validation_recall_at_100
+XGBoost,0.7830342969735433,0.7894736842105263
+Logistic Regression,0.748611406913347,0.7719298245614035
