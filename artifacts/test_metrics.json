@@ -1,0 +1,33 @@
+{
+  "environment": {
+    "python": "3.12.10",
+    "pandas": "3.0.3",
+    "numpy": "2.5.1",
+    "scikit-learn": "1.9.0",
+    "xgboost": "3.3.0",
+    "matplotlib": "3.11.0",
+    "seaborn": "0.13.2"
+  },
+  "metrics": {
+    "champion_model": "XGBoost",
+    "selected_validation_threshold": 0.5690000000000001,
+    "test_pr_auc": 0.8012625805403982,
+    "test_recall_at_100": 0.7733333333333333,
+    "threshold": 0.5690000000000001,
+    "alerts": 61,
+    "alert_rate": 0.0010708893648397177,
+    "true_positives": 57,
+    "false_positives": 4,
+    "false_negatives": 18,
+    "precision": 0.9344262295081968,
+    "recall": 0.76,
+    "review_cost_eur": 305.0,
+    "missed_fraud_loss_eur": 2638.27,
+    "total_cost_eur": 2943.27,
+    "review_nothing_eur": 7729.26,
+    "review_everything_eur": 284810.0,
+    "savings_vs_review_nothing_eur": 4785.99,
+    "savings_vs_review_everything_eur": 281866.73,
+    "savings_vs_review_nothing_per_100k_eur": 8402.07506758892
+  }
+}
